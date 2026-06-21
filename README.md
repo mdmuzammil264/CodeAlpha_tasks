@@ -1,6 +1,11 @@
-# 🐍 Python Projects Collection
+# CodeAlpha — Python Programming Internship
 
-A collection of beginner-friendly Python projects built to practice core programming concepts such as loops, conditionals, dictionaries, file handling, object-oriented programming, and GUI development.
+Welcome to my **CodeAlpha Python Internship** repository!
+This repo contains all 3 completed tasks as part of the internship program.
+
+**Program:** Python Programming Internship — CodeAlpha
+
+---
 
 ## 📌 Projects Included
 
